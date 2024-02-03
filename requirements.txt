@@ -1,0 +1,4 @@
+SpeechRecognition
+pyttsx4
+pygame
+gpt4all
